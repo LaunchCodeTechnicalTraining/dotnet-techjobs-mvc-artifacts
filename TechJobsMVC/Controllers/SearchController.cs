@@ -23,7 +23,7 @@ namespace TechJobsMVC.Controllers
         public IActionResult Results(string searchType, string searchTerm)
         {
             List<Job> jobs;
-            if (string.IsNullOrEmpty(searchTerm) )
+            if (string.IsNullOrEmpty(searchTerm))
             {
                 jobs = JobData.FindAll();
             }
