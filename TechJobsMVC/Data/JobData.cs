@@ -43,6 +43,7 @@ namespace TechJobsMVC.Data
                 jobs = FindByValue(value);
                 return jobs;
             }
+
             foreach (Job job in AllJobs)
             {
 
