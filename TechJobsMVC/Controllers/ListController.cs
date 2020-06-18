@@ -20,7 +20,7 @@ namespace TechJobsMVC.Controllers
             {"positionType", "Position Type"},
             {"coreCompetency", "Skill"}
         };
-        internal static Dictionary<string, object> TableChoices = new Dictionary<string, object>()
+        internal static Dictionary<string, List<JobField>> TableChoices = new Dictionary<string, List<JobField>>()
         {
             //{"all", "View All"},
             {"employer", JobData.GetAllEmployers()},
