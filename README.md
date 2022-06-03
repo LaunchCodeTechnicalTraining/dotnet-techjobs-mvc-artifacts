@@ -1,3 +1,7 @@
+[Textbook Instructions](https://education.launchcode.org/csharp-web-development/assignments/tech-jobs-mvc.html)
+
+[Starter Code](https://github.com/LaunchCodeEducation/TechJobsMVC)
+
 # C# Graded Assignment #3 Rubric (TechJobs, MVC Edition)
 
 This assignment asks the students to once again refactor a TechJobs application, this time using an MVC 
