@@ -1,4 +1,4 @@
-# Java Graded Assignment #3 Rubric (TechJobs, MVC Edition)
+# C# Graded Assignment #3 Rubric (TechJobs, MVC Edition)
 
 This assignment asks the students to once again refactor a TechJobs application, this time using an MVC 
 design pattern.
